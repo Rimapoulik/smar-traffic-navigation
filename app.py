@@ -1,6 +1,6 @@
 import streamlit as st
 import matplotlib.pyplot as plt
-from src.astar import astar
+from astar import astar
 
 st.title("Smart Traffic Navigation System")
 st.write("Find the shortest route using A* Search Algorithm")
