@@ -1,5 +1,5 @@
 import heapq
-from src.heuristic import manhattan
+from heuristic import manhattan
 
 def astar(grid, start, goal):
 
